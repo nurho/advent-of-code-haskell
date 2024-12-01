@@ -2,7 +2,7 @@
 Here will live my Haskell solutions to the Advent of Code problems.\
 I will be working along with the 2023 event but plan to add earlier years later on.
 
-## 2024\
+## 2024
 1  []\
 2  []\
 3  []\
@@ -27,9 +27,9 @@ I will be working along with the 2023 event but plan to add earlier years later 
 22 []\
 23 []\
 24 []\
-25 []\
+25 []
 
-## 2023\
+## 2023
 1  []\
 2  []\
 3  []\
@@ -54,4 +54,4 @@ I will be working along with the 2023 event but plan to add earlier years later 
 22 []\
 23 []\
 24 []\
-25 []\
+25 []
