@@ -1,6 +1,6 @@
 # Advent of Code - Haskell
 Here will live my Haskell solutions to the Advent of Code problems.\
-I will be working along with the 2023 event but plan to add earlier years later on.
+I will be working along with the 2024 event but plan to add earlier years later on.
 
 ## 2024
 - [ ] 1
