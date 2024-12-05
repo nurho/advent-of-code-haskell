@@ -5,8 +5,8 @@ I will be working along with the 2024 event but plan to add earlier years later 
 ## 2024
 - [x] 1
 - [x] 2
-- [ ] 3
-- [ ] 4
+- [-] 3
+- [x] 4
 - [ ] 5
 - [ ] 6
 - [ ] 7
